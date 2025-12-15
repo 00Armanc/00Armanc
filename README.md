@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Hello, this is Yusuf Bilgin
+Hello, this is Furkan Bilgin
 
-I am Front-End developer and living in İstanbul, Turkey.I developed myself on the web for over 3 years.
-I have been developing myself in the field of vuejs for 1 year. I am currently working remotely.In the future, I want to develop myself in 
-the field of artificial intelligence and put something good out there.
+Frontend Developer | Computer Programming graduate from Dicle University.
+Focused on building modern, responsive, and user-friendly web interfaces.
